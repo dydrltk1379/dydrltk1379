@@ -7,8 +7,8 @@
 <h2>프로젝트</h2>
 <ul style="list-style: none; padding: 0;">
 <h4>프로젝트 1. 금융상품 SNS 결합한 FinNS</h4>
-    <li>   <a href="https://github.com/dydrltk1379/KB_Project_FrontEnd">프론트 엔드</a></li>
-    <li>   <a href="https://github.com/dydrltk1379/KB_project_Back">백 엔드</a></li>
+    <li><a href="https://github.com/dydrltk1379/KB_Project_FrontEnd">프론트 엔드</a></li>
+    <li><a href="https://github.com/dydrltk1379/KB_project_Back">백 엔드</a></li>
 </ul>
 
 <p>
