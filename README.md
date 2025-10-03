@@ -1,4 +1,4 @@
-## Hi there 👋
+## 박인용 dydrltk1379 👋
 
 <!--
 **dydrltk1379/dydrltk1379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
